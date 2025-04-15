@@ -4,5 +4,9 @@
   <h1>Welcome to my profile!</h1>
   <h3>I'm just a high school student working on various web projects for fun.</h3>
 
-  <h4>Main Projects: <br> <a href="https://github.com/nurology1/Nebula">Nebula</a>> <br> <a href="https://github.com/nurology1/Proxmi">Proxmi</a></h4>
+  <h4>
+    Main Projects: <br> 
+    <a href="https://github.com/nurology1/Nebula">Nebula</a> <br> 
+    <a href="https://github.com/nurology1/Proxmi">Proxmi</a>
+  </h4>
 </div>

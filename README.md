@@ -6,7 +6,7 @@
 
   <h4>
     Main Projects: <br> 
-    <a href="https://github.com/nurology1/Nebula">Nebula</a> (ABANDONED) <br> 
+    <a href="https://github.com/nurology1/Nebula">Nebula</a> (Archived) <br> 
     <a href="https://github.com/nurology1/Proxmi">Proxmi</a>
   </h4>
 </div>

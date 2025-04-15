@@ -7,6 +7,6 @@
   <h4>
     Main Projects: <br> 
     <a href="https://github.com/nurology1/Nebula">Nebula</a> $${\color{red}(Archived)}$$ <br> 
-    <a href="https://github.com/nurology1/Proxmi">Proxmi</a>
+    <a href="https://github.com/nurology1/Proxmi">Proxmi</a> $${\color{green}v2025.4.15}$$
   </h4>
 </div>

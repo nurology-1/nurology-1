@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/nurology1/profile-readme/blob/main/profile256.png"></p>
+<p align="center"><img src="https://github.com/nurology1/profile-readme/blob/main/profile"></p>
 
 <div align="center">
   <h1>Welcome to my profile! <br> 

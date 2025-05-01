@@ -8,7 +8,6 @@
 
   <h3>
     Main Projects: <br> 
-    <a href="https://github.com/nurology1/Nebula">Nebula</a> $${\color{yellow}u2025.5.1}$$ <br> 
-    <a href="https://github.com/nurology1/Proxmi">Proxmi</a> $${\color{orange}(Archived)}$$
+    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${\color{yellow}u2025.5.1}$$
   </h3>
 </div>

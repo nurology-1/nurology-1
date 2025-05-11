@@ -8,6 +8,6 @@
 
   <h3>
     Main Projects: <br> 
-    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${\color{yellow}u2025.5.1}$$
+    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${\color{yellow}u2025.5.11}$$
   </h3>
 </div>

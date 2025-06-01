@@ -8,6 +8,9 @@
 
   <h3>
     Main Projects: <br> 
+    <a href="https://github.com/nurology1/Nebula">Nebula</a> $${\color{Purple}(v2505)}$$ <br> 
+    <a href="https://github.com/nurology1/Proxmi">cam_0</a> $${\color{green}d0601}$$
+    
     <a href="https://nurology1.github.io/Nebula/">Nebula</a>
     <br>
   </h3>

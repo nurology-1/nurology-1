@@ -8,8 +8,8 @@
 
   <h3>
     Main Projects: <br> 
-    <a href="https://github.com/nurology1/Nebula">Nebula : v2505</a> <br>
-    <a href="https://github.com/nurology1/Proxmi">cam_0 v0.061</a> 
+    <a href="https://github.com/nurology1/Nebula">Nebula | v2505</a> <br>
+    <a href="https://github.com/nurology1/Proxmi">cam_0 | v0.061</a> 
   </h3>
 </div>
 

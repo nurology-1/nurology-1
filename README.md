@@ -8,6 +8,7 @@
 
   <h3>
     Main Projects: <br> 
-    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${color{green}v2505}$$ 
+    <a href="https://nurology1.github.io/Nebula/">Nebula</a>
+    <br>
   </h3>
 </div>

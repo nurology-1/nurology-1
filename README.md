@@ -9,7 +9,7 @@
   <h3>
     Main Projects: <br> 
     <a href="https://github.com/nurology1/Nebula">Nebula</a> <code style="color : green">v2505</code>
-    <a href="https://github.com/nurology1/Proxmi">cam_0</a> $${\color{green}d0601}$$
+    <a href="https://github.com/nurology1/Proxmi">cam_0</a> 
   </h3>
 </div>
 

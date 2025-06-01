@@ -8,7 +8,6 @@
 
   <h3>
     Main Projects: <br> 
-    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${\color{green}v2505}$$ <br>
-    <a href="https://github.com/camera-Z3ro/camera-Z3ro/">cam_0</a> $${\color{green}v0530}$$
+    <a href="https://nurology1.github.io/Nebula/">Nebula</a> $${\color{green}v2505}$$ 
   </h3>
 </div>

@@ -14,4 +14,5 @@
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
 **Projects so far:**
-- [ ] ![Back2Drive][https://github.com/nurology-1/Back2Drive)
+- [ ] <a href="[https://example.com](https://github.com/nurology-1/Back2Drive)" target="_blank">Back2Drive</a>
+

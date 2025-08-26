@@ -1,5 +1,5 @@
 # Hi there, my name is Ty or cam_0 #
-### I am a Software Engineer, Content Creator & Game Developer ###
+### I am a high school student just having fun making little projects. ###
 
 
 

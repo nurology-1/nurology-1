@@ -2,7 +2,6 @@
 My name is Ty. I'm currently a high school student working on random projects. I'm getting more into actually working on vehicles; most of the vehicles I will end up working on will be posted to my YouTube channel. The series of those vehicles will be in playlists for viewers to easily access the vehicle build.
 
 # Projects:
-- Shift Garage:
 I'm currently building Shift Garage, a personal website that showcases my portfolio and also serves as an online store for my YouTube channel.
 
 

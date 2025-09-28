@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurology-1&label=Profile%20views&color=0e75b6&style=flat" alt="nurology-1" /> </p>
 
-- I’m currently working on [Shift Garage](https://github.com/nurology-1/Shift-Garage)
+- I’m currently working on [Classified.](about:blank)
 
 - I’m currently learning **Python, HTML, CSS.**
 
-- All of my projects are available at [https://nurology-1.github.io/nurology-1/](https://nurology-1.github.io/nurology-1/)
+- All of my projects are available at [https://nurology-1.github.io/nurology-1/](https://github.com/nurology-1?tab=repositories)
 
 - How to reach me **Instagram DMs**
 

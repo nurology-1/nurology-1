@@ -1,26 +1,23 @@
-<h1 align="center">Hi , I'm Ty!</h1>
-<h3 align="center">I'm currently a high school student working on random projects. I'm getting more into actually working on vehicles; most of the vehicles I will end up working on will be posted to my YouTube channel. The series of those vehicles will be in playlists for viewers to easily access the vehicle build.</h3>
+#### I'm a high school student working on random projects that I make up in my free time.
+##### I would appreciate it if people would not bring up politics in conversations with me.
 
-- I’m currently working on [Classified.](about:blank)
+#### Socials:
+-  **<a href="https://youtube.com/@wyll.studios" target="__blank">YouTube</a>**.
+-  **<a href="#" target="__blank">Instagram</a>**.
+-  **<a href="#" target="__blank">Twitter / X</a>**.
 
-- I’m currently learning **Python, HTML, CSS.**
+#### Programming Languages:
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
+<a href="https://www.css3.info/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-plain.svg" alt="Python" width="40" height="40"/>
 
-- All of my projects are available at [https://wyllstudios.github.io/wyllstudios/](https://github.com/wyllstudios?tab=repositories)
-
-- How to reach me **Instagram DMs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyllstudios instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@wyll.studios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wyll.studios youtube" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wyllstudios kofi" /></a></p><br><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyllstudios&show_icons=true&locale=en&layout=compact" alt="wyllstudios readme stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyllstudios&" alt="wyllstudios github streak" /></p>
+#### Tools:
+<a href="https://blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+<a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+****
+<div class=Stats>
+    <img align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyllstudios&show_icons=true&locale=en&layout=compact">
+    <br>
+    <img align-self="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyllstudios&">
+</div>

@@ -21,6 +21,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wyllstudios kofi" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurology-1&show_icons=true&locale=en&layout=compact" alt="wyllstudios readme stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyllstudios&show_icons=true&locale=en&layout=compact" alt="wyllstudios readme stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyllstudios&" alt="wyllstudios github streak" /></p>

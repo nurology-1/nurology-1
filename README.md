@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Ty!</h1>
 <h3 align="center">I'm currently a high school student working on random projects. I'm getting more into actually working on vehicles; most of the vehicles I will end up working on will be posted to my YouTube channel. The series of those vehicles will be in playlists for viewers to easily access the vehicle build.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wyllstudios&label=Profile%20views&color=0e75b6&style=flat" alt="wyllstudios profile image" /> </p>
-
 - I’m currently working on [Classified.](about:blank)
 
 - I’m currently learning **Python, HTML, CSS.**

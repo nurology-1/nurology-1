@@ -18,6 +18,5 @@
 ****
 <div class=Stats>
     <img align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyllstudios&show_icons=true&locale=en&layout=compact">
-    <br>
     <img align-self="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyllstudios&">
 </div>
